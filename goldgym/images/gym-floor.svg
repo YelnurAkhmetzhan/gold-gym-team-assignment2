@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 520">
+    <rect width="1180" height="520" fill="#17140F"/>
+    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2A2318"/><stop offset="1" stop-color="#17140F"/></linearGradient></defs>
+    <rect x="30" y="30" width="1120" height="460" rx="4" fill="url(#g)" stroke="#3A3225"/>
+    <g opacity=".35" stroke="#C7A046" stroke-width="1">
+      <path d="M70 410H1110"/><path d="M70 350H1110"/><path d="M70 290H1110"/><path d="M70 230H1110"/>
+    </g>
+    <rect x="620" y="80" width="360" height="220" rx="12" fill="#211C15" stroke="#C7A046" stroke-width="2"/><path d="M650 250 L760 120 L850 220 L920 150 L960 250" fill="none" stroke="#C7A046" stroke-width="8"/>
+    <text x="70" y="105" fill="#C7A046" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">TRAINING FLOOR</text>
+    <text x="70" y="145" fill="#EDE7D9" font-family="Arial, sans-serif" font-size="38" font-weight="700">Built for strength.</text>
+    <text x="70" y="445" fill="#8E8778" font-family="Arial, sans-serif" font-size="18">GOLD GYM · KAZAKHSTAN</text>
+    </svg>
